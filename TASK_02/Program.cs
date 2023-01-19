@@ -30,4 +30,3 @@ int NumberDigit(int number)
     return count;
 }
 Console.WriteLine();
-
